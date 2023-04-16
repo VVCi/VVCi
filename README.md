@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @VVCi
+- 👋 Hi there, I’m @VVCi
 - 👀 I’m interested in IoT and HASS
-- 🌱 I’m currently learning and working with C/C++ and Python Tech
+- 🌱 I’m currently learning and working with C/C++ for Automotive domain and Python Tech
 - 💞️ I’m looking to collaborate on every developer
-- 📫 How to reach me ?
-    Via mail: covv.work@gmail.com
-    Via phone: +84 395 959 445
-    Via Instagram: vvcicreator
+- 📫 But how to reach me?
+    + Via e-mail: covv.work@gmail.com
+    + Via phone: +84 395 959 445
+    + Via Instagram: vvcicreator
 
 <!---
 VVCi/VVCi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
